@@ -1,2 +1,2 @@
 # TrialRepo
-Describe sha this repository is for 
+Describe what this repository is for. Trying the first repository build
